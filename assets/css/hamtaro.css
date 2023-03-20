@@ -1,0 +1,20 @@
+img{
+    width: 200px;
+    float: right;
+    
+}
+article{
+position: absolute;
+top: 150px;
+left: 150px;
+background-color: orange;
+}
+
+.containe{
+    width: 500px;
+    margin: 0 auto;
+    
+}
+.limpaFloat{
+    clear: right;
+}
